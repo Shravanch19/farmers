@@ -2,7 +2,7 @@ import Button from "./Button";
 import Card from "./Card";
 import CardContent from "./CardContent";
 import Input from "./Input";
-export{
+export {
     Button,
     Card,
     CardContent,
